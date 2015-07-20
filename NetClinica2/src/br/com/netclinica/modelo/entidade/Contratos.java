@@ -7,6 +7,7 @@ public class Contratos {
 		
 		private Paciente contratante;
 		private Medico contratada;
+		private String teste_modificacao;
 		
 		
 
